@@ -1,0 +1,21 @@
+.h{
+    width: 80%;
+    font-size: 22px;
+}
+body{
+    background-color: #ced7d8;
+    color: #316879;
+}
+.bold1{
+    color:#f47a60;
+    font-size: 19px;
+}
+#camera,#result{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+#fr{
+background-color: #316879;
+color: #f47a60;
+}
